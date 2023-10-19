@@ -1,5 +1,293 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "CQWITmHLlvg",
+            "name": "Massiel  ＂Rosas en el mar＂  (1967) [CQWITmHLlvg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Massiel  ＂Rosas en el mar＂  (1967) [CQWITmHLlvg].mp4",
+            "size": 9.36435,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Massiel  ＂Rosas en el mar＂  (1967) [CQWITmHLlvg].mp4?raw=true"
+        },
+        {
+            "id": "8SH-0fA6Ss8",
+            "name": "INTO EACH LIFE SOME RAIN MUST FALL (Original) [8SH-0fA6Ss8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/INTO EACH LIFE SOME RAIN MUST FALL (Original) [8SH-0fA6Ss8].mp4",
+            "size": 5.451517,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/INTO EACH LIFE SOME RAIN MUST FALL (Original) [8SH-0fA6Ss8].mp4?raw=true"
+        },
+        {
+            "id": "_YpZjRYBDGg",
+            "name": "Franc Moody - Night Flight (Live) [_YpZjRYBDGg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Franc Moody - Night Flight (Live) [_YpZjRYBDGg].mp4",
+            "size": 52.728463999999995,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Franc Moody - Night Flight (Live) [_YpZjRYBDGg].mp4?raw=true"
+        },
+        {
+            "id": "s3-WHo7a3sM",
+            "name": "Falsa moneda (Imperio Argentina) [s3-WHo7a3sM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Falsa moneda (Imperio Argentina) [s3-WHo7a3sM].mp4",
+            "size": 8.904595,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Falsa moneda (Imperio Argentina) [s3-WHo7a3sM].mp4?raw=true"
+        },
+        {
+            "id": "-Q9E7dU75FA",
+            "name": "Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Mazurka [-Q9E7dU75FA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Mazurka [-Q9E7dU75FA].mp4",
+            "size": 1.619208,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Offenbach： Le voyage dans la lune ⧸ Ballet des Flocons de neige - Mazurka [-Q9E7dU75FA].mp4?raw=true"
+        },
+        {
+            "id": "gyjDgFL1Nlo",
+            "name": "Easy Street [gyjDgFL1Nlo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Easy Street [gyjDgFL1Nlo].mp4",
+            "size": 24.533856999999998,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Easy Street [gyjDgFL1Nlo].mp4?raw=true"
+        },
+        {
+            "id": "e_RKioBuNTo",
+            "name": "Los Churumbeles de España. Colección España #21 (Full Album⧸Album Completo) [e_RKioBuNTo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Los Churumbeles de España. Colección España #21 (Full Album⧸Album Completo) [e_RKioBuNTo].mp4",
+            "size": 38.031116,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Los Churumbeles de España. Colección España #21 (Full Album⧸Album Completo) [e_RKioBuNTo].mp4?raw=true"
+        },
+        {
+            "id": "ZxGiEoczryg",
+            "name": "Masayoshi Takanaka – All Of Me (1979) [ZxGiEoczryg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Masayoshi Takanaka – All Of Me (1979) [ZxGiEoczryg].mp4",
+            "size": 81.20729999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Masayoshi Takanaka – All Of Me (1979) [ZxGiEoczryg].mp4?raw=true"
+        },
+        {
+            "id": "_znPZ7BeEFs",
+            "name": "Beleza Pula [_znPZ7BeEFs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Beleza Pula [_znPZ7BeEFs].mp4",
+            "size": 21.280801,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Beleza Pula [_znPZ7BeEFs].mp4?raw=true"
+        },
+        {
+            "id": "K2vjGGEnE6U",
+            "name": "Hoodoo Gurus - What's My Scene [K2vjGGEnE6U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Hoodoo Gurus - What's My Scene [K2vjGGEnE6U].mp4",
+            "size": 6.8023039999999995,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Hoodoo Gurus - What's My Scene [K2vjGGEnE6U].mp4?raw=true"
+        },
+        {
+            "id": "9fjg7N_mGaU",
+            "name": "Howard Jones - New Song [9fjg7N_mGaU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Howard Jones - New Song [9fjg7N_mGaU].mp4",
+            "size": 10.255753,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Howard Jones - New Song [9fjg7N_mGaU].mp4?raw=true"
+        },
+        {
+            "id": "HUXfq2VqtVE",
+            "name": "LA BIEN PAGÁ _Miguel de Molina [HUXfq2VqtVE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/LA BIEN PAGÁ _Miguel de Molina [HUXfq2VqtVE].mp4",
+            "size": 13.127763999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/LA BIEN PAGÁ _Miguel de Molina [HUXfq2VqtVE].mp4?raw=true"
+        },
+        {
+            "id": "0effdxyFGQI",
+            "name": "Harlem Nocturne [0effdxyFGQI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Harlem Nocturne [0effdxyFGQI].mp4",
+            "size": 4.6038,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Harlem Nocturne [0effdxyFGQI].mp4?raw=true"
+        },
+        {
+            "id": "xM9amXmDyaM",
+            "name": "Vote For Mr. Rhythm [xM9amXmDyaM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Vote For Mr. Rhythm [xM9amXmDyaM].mp4",
+            "size": 5.207307,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Vote For Mr. Rhythm [xM9amXmDyaM].mp4?raw=true"
+        },
+        {
+            "id": "MUvaSBqZ0LY",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act III - No. 22, Chorus. Ricevete, o padroncina [MUvaSBqZ0LY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 22, Chorus. Ricevete, o padroncina [MUvaSBqZ0LY].mp4",
+            "size": 2.95184,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act III - No. 22, Chorus. Ricevete, o padroncina [MUvaSBqZ0LY].mp4?raw=true"
+        },
+        {
+            "id": "FCSgGiGxuTU",
+            "name": "Liszt： Hungarian Coronation Mass, S.11 - 5. Offertorium [FCSgGiGxuTU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Liszt： Hungarian Coronation Mass, S.11 - 5. Offertorium [FCSgGiGxuTU].mp4",
+            "size": 12.287884,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Liszt： Hungarian Coronation Mass, S.11 - 5. Offertorium [FCSgGiGxuTU].mp4?raw=true"
+        },
+        {
+            "id": "-tVl5sSLbiM",
+            "name": "Umbrio por la Pena [-tVl5sSLbiM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Umbrio por la Pena [-tVl5sSLbiM].mp4",
+            "size": 4.445818,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Umbrio por la Pena [-tVl5sSLbiM].mp4?raw=true"
+        },
+        {
+            "id": "ElZvHzoJqc8",
+            "name": "The Moon Is on the Sea [ElZvHzoJqc8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/The Moon Is on the Sea [ElZvHzoJqc8].mp4",
+            "size": 2.251621,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/The Moon Is on the Sea [ElZvHzoJqc8].mp4?raw=true"
+        },
+        {
+            "id": "zfiISFiozg8",
+            "name": "Depeche Mode - Get the Balance Right! (Official Video) [zfiISFiozg8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Depeche Mode - Get the Balance Right! (Official Video) [zfiISFiozg8].mp4",
+            "size": 11.071024999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Depeche Mode - Get the Balance Right! (Official Video) [zfiISFiozg8].mp4?raw=true"
+        },
+        {
+            "id": "VaMT44YCfb0",
+            "name": "Liszt, La leggerezza, Martha Argerich 1966 [VaMT44YCfb0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Liszt, La leggerezza, Martha Argerich 1966 [VaMT44YCfb0].mp4",
+            "size": 12.455589999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Liszt, La leggerezza, Martha Argerich 1966 [VaMT44YCfb0].mp4?raw=true"
+        },
+        {
+            "id": "C05QAFuMiTc",
+            "name": "Riccardo Drigo ： La Flûte magique, Ballet comique in one act (1893) [C05QAFuMiTc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Riccardo Drigo ： La Flûte magique, Ballet comique in one act (1893) [C05QAFuMiTc].mp4",
+            "size": 89.84426599999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Riccardo Drigo ： La Flûte magique, Ballet comique in one act (1893) [C05QAFuMiTc].mp4?raw=true"
+        },
+        {
+            "id": "byxw8BtC6x0",
+            "name": "A Shine on Your Shoes (From ＂The Band Wagon＂) [byxw8BtC6x0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/A Shine on Your Shoes (From ＂The Band Wagon＂) [byxw8BtC6x0].mp4",
+            "size": 11.082564,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/A Shine on Your Shoes (From ＂The Band Wagon＂) [byxw8BtC6x0].mp4?raw=true"
+        },
+        {
+            "id": "H9694K85Xc8",
+            "name": "Thompson Twins - Hold Me Now [H9694K85Xc8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Thompson Twins - Hold Me Now [H9694K85Xc8].mp4",
+            "size": 13.492809,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Thompson Twins - Hold Me Now [H9694K85Xc8].mp4?raw=true"
+        },
+        {
+            "id": "qjxKxsH_Kk0",
+            "name": "FANCY - AFTER MIDNIGHT (ELECTRIFY EXTENDED RE-EDIT) (℗1986 ⧸ ©2014) [qjxKxsH_Kk0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/FANCY - AFTER MIDNIGHT (ELECTRIFY EXTENDED RE-EDIT) (℗1986 ⧸ ©2014) [qjxKxsH_Kk0].mp4",
+            "size": 7.9851399999999995,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/FANCY - AFTER MIDNIGHT (ELECTRIFY EXTENDED RE-EDIT) (℗1986 ⧸ ©2014) [qjxKxsH_Kk0].mp4?raw=true"
+        },
+        {
+            "id": "GZyfqprbl6k",
+            "name": "Suspiros De España. Pasodobles Toreros. Colección España #39 (Full Album⧸Album Completo) [GZyfqprbl6k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Suspiros De España. Pasodobles Toreros. Colección España #39 (Full Album⧸Album Completo) [GZyfqprbl6k].mp4",
+            "size": 83.65302,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Suspiros De España. Pasodobles Toreros. Colección España #39 (Full Album⧸Album Completo) [GZyfqprbl6k].mp4?raw=true"
+        },
+        {
+            "id": "fGeDqtMYzfU",
+            "name": "Bert Kaempfert ⧸ James Last - Skokiaan (1962, 1967) [fGeDqtMYzfU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Bert Kaempfert ⧸ James Last - Skokiaan (1962, 1967) [fGeDqtMYzfU].mp4",
+            "size": 15.395413,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Bert Kaempfert ⧸ James Last - Skokiaan (1962, 1967) [fGeDqtMYzfU].mp4?raw=true"
+        },
+        {
+            "id": "iyR9o_Q-LiM",
+            "name": "JOHN LEE HOOKER‎– ... And Seven Nights (Full Album) [iyR9o_Q-LiM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/JOHN LEE HOOKER‎– ... And Seven Nights (Full Album) [iyR9o_Q-LiM].mp4",
+            "size": 48.64015,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/JOHN LEE HOOKER‎– ... And Seven Nights (Full Album) [iyR9o_Q-LiM].mp4?raw=true"
+        },
+        {
+            "id": "FyIwF1ZTXZA",
+            "name": "Cheri - Murphy's Law 1982 RARE VIDEO!!!! [FyIwF1ZTXZA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Cheri - Murphy's Law 1982 RARE VIDEO!!!! [FyIwF1ZTXZA].mp4",
+            "size": 11.849326,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Cheri - Murphy's Law 1982 RARE VIDEO!!!! [FyIwF1ZTXZA].mp4?raw=true"
+        },
+        {
+            "id": "iy5hCR8QvXo",
+            "name": "Time [iy5hCR8QvXo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Time [iy5hCR8QvXo].mp4",
+            "size": 18.51058,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Time [iy5hCR8QvXo].mp4?raw=true"
+        },
+        {
+            "id": "8_kYdNYlzLk",
+            "name": "Danzón No. 2 [8_kYdNYlzLk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Danzón No. 2 [8_kYdNYlzLk].mp4",
+            "size": 15.410020999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Danzón No. 2 [8_kYdNYlzLk].mp4?raw=true"
+        },
+        {
+            "id": "bG7nFBmr1_E",
+            "name": "Lovely to Look At [bG7nFBmr1_E].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Lovely to Look At [bG7nFBmr1_E].mp4",
+            "size": 11.243405,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Lovely to Look At [bG7nFBmr1_E].mp4?raw=true"
+        },
+        {
+            "id": "y-UIknVuZug",
+            "name": "Brahms： Variations and Fugue on a Theme by Handel, Op. 24 - Orchestrated by Edmund Rubbra [y-UIknVuZug].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Brahms： Variations and Fugue on a Theme by Handel, Op. 24 - Orchestrated by Edmund Rubbra [y-UIknVuZug].mp4",
+            "size": 79.65883199999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Brahms： Variations and Fugue on a Theme by Handel, Op. 24 - Orchestrated by Edmund Rubbra [y-UIknVuZug].mp4?raw=true"
+        },
+        {
+            "id": "_VTlaGREM7I",
+            "name": "Mendelssohn – Fantasie, Op. 28 [_VTlaGREM7I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Mendelssohn – Fantasie, Op. 28 [_VTlaGREM7I].mp4",
+            "size": 39.608362,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Mendelssohn – Fantasie, Op. 28 [_VTlaGREM7I].mp4?raw=true"
+        },
+        {
+            "id": "vh0Cr3vDDRk",
+            "name": "Galina Vishnevskaya sings Puccini and Delibes - video 1963 [vh0Cr3vDDRk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Galina Vishnevskaya sings Puccini and Delibes - video 1963 [vh0Cr3vDDRk].mp4",
+            "size": 25.017440999999998,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Galina Vishnevskaya sings Puccini and Delibes - video 1963 [vh0Cr3vDDRk].mp4?raw=true"
+        },
+        {
+            "id": "4jVh5cZ_ZvM",
+            "name": "Rhapsody in Blue (2017 Remastered Version) [4jVh5cZ_ZvM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Rhapsody in Blue (2017 Remastered Version) [4jVh5cZ_ZvM].mp4",
+            "size": 29.890635999999997,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Rhapsody in Blue (2017 Remastered Version) [4jVh5cZ_ZvM].mp4?raw=true"
+        },
+        {
+            "id": "a3HpU9tlHPY",
+            "name": "Zirkus, Op. 110 (Version for Orchestra) [a3HpU9tlHPY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Zirkus, Op. 110 (Version for Orchestra) [a3HpU9tlHPY].mp4",
+            "size": 5.744282999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Zirkus, Op. 110 (Version for Orchestra) [a3HpU9tlHPY].mp4?raw=true"
+        },
+        {
+            "id": "V5AztWseIdU",
+            "name": "Donna Summer Love To Love You Baby original long version (Disco 70s) [V5AztWseIdU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Donna Summer Love To Love You Baby original long version (Disco 70s) [V5AztWseIdU].mp4",
+            "size": 9.679397,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Donna Summer Love To Love You Baby original long version (Disco 70s) [V5AztWseIdU].mp4?raw=true"
+        },
+        {
+            "id": "JPhUpEo99VM",
+            "name": "Errante de un Amor [JPhUpEo99VM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Errante de un Amor [JPhUpEo99VM].mp4",
+            "size": 6.2586509999999995,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Errante de un Amor [JPhUpEo99VM].mp4?raw=true"
+        },
+        {
+            "id": "zvbsbEYV3g8",
+            "name": "Art Blakey & The Jazz Messengers - Uptight [zvbsbEYV3g8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Art Blakey & The Jazz Messengers - Uptight [zvbsbEYV3g8].mp4",
+            "size": 11.046204,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Art Blakey & The Jazz Messengers - Uptight [zvbsbEYV3g8].mp4?raw=true"
+        },
+        {
+            "id": "fRzzwVGE7J0",
+            "name": "CABARET VOLTAIRE 'Colours' official music video Mute Records [HQ Audio] [fRzzwVGE7J0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/CABARET VOLTAIRE 'Colours' official music video Mute Records [HQ Audio] [fRzzwVGE7J0].mp4",
+            "size": 21.250553999999998,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/CABARET VOLTAIRE 'Colours' official music video Mute Records [HQ Audio] [fRzzwVGE7J0].mp4?raw=true"
+        },
+        {
+            "id": "mB7oK8Os1ac",
+            "name": "Nina Hagen New York - New York 1983 HQ Sound [mB7oK8Os1ac].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Nina Hagen New York - New York 1983 HQ Sound [mB7oK8Os1ac].mp4",
+            "size": 10.288651,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Nina Hagen New York - New York 1983 HQ Sound [mB7oK8Os1ac].mp4?raw=true"
+        }
+    ],
+    "total_size": 894.1316189999998
 }
