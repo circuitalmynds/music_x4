@@ -149,6 +149,13 @@
             "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Riccardo Drigo ： La Flûte magique, Ballet comique in one act (1893) [C05QAFuMiTc].mp4?raw=true"
         },
         {
+            "id": "QP73569coeo",
+            "name": "Antonio Vivaldi La Stravaganza [QP73569coeo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x4/videos/Antonio Vivaldi La Stravaganza [QP73569coeo].mp4",
+            "size": 11.185203999999999,
+            "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Antonio Vivaldi La Stravaganza [QP73569coeo].mp4?raw=true"
+        },
+        {
             "id": "byxw8BtC6x0",
             "name": "A Shine on Your Shoes (From ＂The Band Wagon＂) [byxw8BtC6x0].mp4",
             "path": "/home/alanmatzumiya/Videos/container/x4/videos/A Shine on Your Shoes (From ＂The Band Wagon＂) [byxw8BtC6x0].mp4",
@@ -289,5 +296,5 @@
             "url": "https://github.com/circuitalmynds/music_x4/blob/main/videos/Nina Hagen New York - New York 1983 HQ Sound [mB7oK8Os1ac].mp4?raw=true"
         }
     ],
-    "total_size": 894.1316189999998
+    "total_size": 905.3168229999999
 }
